@@ -55,8 +55,8 @@ def dennis_ritchies_language
           :languages => ["C"]
         }
      }
+     programmer_hash[:grace_hopper]
 end
-programmer_hash = 
 
 def adding_matz
 # add the following information to the top level of programmer_hash
