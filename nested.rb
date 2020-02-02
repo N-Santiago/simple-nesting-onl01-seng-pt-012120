@@ -86,6 +86,7 @@ def adding_matz
     known_for: "Ruby",
     languages: ["LISP", "C"]
     }
+  #This is how we add data to a hash.
   programmer_hash
 end
 
